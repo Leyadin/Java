@@ -1,3 +1,8 @@
+//Jason Rutledge
+//Lab 2
+//Purpose:  ComplexNumber class with an implemented add functionality
+//			This class was created in lab1, used for JUnit testing here
+
 package lab1;
 
 public class ComplexNumber {

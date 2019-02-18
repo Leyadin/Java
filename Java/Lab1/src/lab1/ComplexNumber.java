@@ -1,3 +1,7 @@
+//Jason Rutledge
+//Lab 1
+//Purpose:  Create the ComplexNumber class with an implemented add functionality
+
 package lab1;
 
 public class ComplexNumber {

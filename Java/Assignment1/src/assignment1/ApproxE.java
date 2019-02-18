@@ -1,3 +1,7 @@
+//Jason Rutledge
+//Assignment 1
+//Purpose:  Approximate the value of e using BigDecimal
+
 package assignment1;
 
 import java.math.BigDecimal;

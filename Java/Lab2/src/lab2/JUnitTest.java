@@ -1,3 +1,7 @@
+//Jason Rutledge
+//Lab 2
+//Purpose:  Simple JUnit test program
+
 package lab2;
 
 public class JUnitTest {

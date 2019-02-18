@@ -1,3 +1,7 @@
+//Jason Rutledge
+//Assignment 1
+//Purpose:  Create the StopWatch class which measures the amount of time that a program takes to run
+
 package assignment1;
 
 public class StopWatch {
@@ -18,11 +22,6 @@ public class StopWatch {
 	
 	public long getElapsedTime() {
 		return endTime - startTime;
-	}
-	
-	public static void selectionSort(int[] data) {
-		
-		
 	}
 	
 	public static void main(String[] args) {

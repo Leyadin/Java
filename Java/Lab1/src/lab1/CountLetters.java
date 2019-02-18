@@ -1,3 +1,7 @@
+//Jason Rutledge
+//Lab 1
+//Purpose:  Count the number of letters in a string
+
 package lab1;
 
 public class CountLetters {

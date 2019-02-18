@@ -1,3 +1,7 @@
+//Jason Rutledge
+//Assignment 1
+//Purpose:  Use System.out.println() to display a text image
+
 package assignment1;
 
 public class JavaText {
